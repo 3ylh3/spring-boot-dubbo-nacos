@@ -5,7 +5,7 @@ spring:
     name: provider
   dubbo:
     registry:
-      address: nacos://47.93.194.195:8848
+      address: nacos://x.x.x.x:8848
     protocol:
       name: dubbo
       port: 20880
